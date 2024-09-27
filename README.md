@@ -23,22 +23,12 @@ Of course! I've just separated them all for clarity (for myself) as well as if a
 
 Default.json is not necessary for a custom NPC, but it is heavily incentivized for translation and clarity purposes
 	
-Birthday.json is not necessary for a custom NPC, this is my integration of a birthday event
-	
-Children.json is not necessary for a custom NPC, this is my integration for different children events
-	
-DeathInsurance.json is not necessary for a custom NPC, this is for my integration for the spouse to protect the farmer from passing out / fainting
-	
 Mail.json is not necessary for a custom NPC, you can go without creating a single letter for your custom NPC
 	
 SpaceCore.json is not necessary for a custom NPC, this is my integration for animationDescriptions.json to have sound effects, a custom warp totem, and any other things I wanted
-	
-SpecialOrders.json is not necessary for a custom NPC, this is if you wanted to integrate quests into your NPC
 	
 StringsFromCSFiles.json is not necessary as there is a vast list of strings to change and there are just a few strings that I wanted to have custom
 	
 TownComments.json is not necessary unless you'd like an expansive dialogue surrounding your custom NPC
 
 TriggerActions.json is not necessary as you don't have to have repeating events, or special tokenized events for your NPC
-
-WipedMemory.json is not necessary as you don't need to have specialization for your custom NPC if their memory is wiped after divorce
